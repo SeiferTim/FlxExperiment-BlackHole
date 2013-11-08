@@ -1,0 +1,13 @@
+11/30/10 Started log
+11/30/10 Added player momentum (1st attempt)
+11/30/10 added player flicker on hit
+11/30/10 health + xp powerups
+11/30/10 xp bar
+11/30/10 score multiplier
+12/01/10 added wave display
+12/01/10 added enemy collision/avoidance (needs work)
+12/01/10 changed enemies to have designated locations to go to. Possibly make a different class of enemy that moves around more, too...
+12/01/10 added y axis movement
+12/02/10 tweaked momentum to work better and added Y axis momentum
+12/02/10 added movement for enemy ships relative to their home positions
+12/02/10 added center variables for objects to aim/move better
